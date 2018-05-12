@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2769
     wikipedia: http://en.wikipedia.org/wiki/Hermann_Sudermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34156#The-Undying-Past
 gutenberg_issued: '2010-10-28'
 gutenberg_type: Text
 identifiers:
